@@ -1,3 +1,10 @@
 node_modules
 yarn.lock
 package-lock.json
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/codeStyles/Project.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/a-million-times.iml
+/.idea/modules.xml
+/.idea/vcs.xml
